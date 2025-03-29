@@ -8,3 +8,10 @@ My data science and analytics projects
 3. R programming
 4. Looker Dashboard
 5. Linear Regression Model using Caret
+
+
+## Contact Me
+@gmail.com
+
+## Image
+![Frieren](https://www.japanpowered.com/media/images/frieren.jpg)
